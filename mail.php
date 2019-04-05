@@ -79,6 +79,8 @@ class Mail{
 
     /**
      * Send mail to email address
+     * 
+     * @return boolean
     */
     public function send()
     {
